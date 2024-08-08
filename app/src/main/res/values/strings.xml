@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bank</string>
+    <string name="play_to_learn">Play to learn</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">@string/app_name</string>
+    <string name="fcm_message">FCM Message</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
