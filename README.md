@@ -1,1 +1,1 @@
-![plot](./TesteBud.png)
+![plot](./img.png)
