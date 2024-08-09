@@ -15,7 +15,7 @@
         tools:targetApi="31">
 
         <activity
-            android:name="com.vimalcvs.testebud.viewPayment.MainActivity"
+            android:name="com.vimalcvs.testebud.view.MainActivity"
 
             android:exported="true">
             <intent-filter>
